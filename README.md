@@ -25,3 +25,5 @@ This project is a WebRTC-based video calling application where users can log in 
    - Once in the room, users can initiate a video call by selecting the calling option.
    - The application requests permission to access the user's camera and microphone.
    - Upon granting access, a video call is established, allowing users to communicate in real-time.
+   - ![image](https://github.com/user-attachments/assets/a8e9318a-34c6-485a-b795-f0a117acf3fa)
+
